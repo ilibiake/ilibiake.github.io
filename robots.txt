@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ilibiake.github.io/NvF/sitemap_index.txt
+Sitemap: https://ilibiake.github.io/Ojd/sitemap_index.txt
+Sitemap: https://ilibiake.github.io/exL/sitemap_index.txt
+Sitemap: https://ilibiake.github.io/rAH/sitemap_index.txt
